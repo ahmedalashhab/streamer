@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "title": "Large Elephants in France",
+      "description": "Big Yoshi in Mario Land",
+      "userId": "108685781448200782812",
+      "id": 1
+    },
+    {
+      "title": "Penguins in McDonalds",
+      "description": "What are they doing here??",
+      "userId": "108685781448200782812",
+      "id": 3
+    },
+    {
+      "title": "Where is me hat?",
+      "description": "Definitely not in the drawer",
+      "userId": "108685781448200782812",
+      "id": 4
+    },
+    {
+      "title": "Different user",
+      "description": "I am another usr",
+      "userId": "111029482289449400554",
+      "id": 5
+    },
+    {
+      "title": "Ayman the big Yoshi",
+      "description": "Ayman eating Chips at spa's",
+      "userId": "108685781448200782812",
+      "id": 6
+    },
+    {
+      "title": "test",
+      "description": "gugu gaga",
+      "userId": "111029482289449400554",
+      "id": 7
+    }
+  ]
+}
